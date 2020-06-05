@@ -22,7 +22,7 @@ year-month-day event<br>
 <b>Syntax:</b><br>
 Print<br>
 
-# What could possibly could go wrong
+# What could possibly go wrong
 This program have a simple exception handling mechanism. Important thing to know is that in case of<br>
 exception catching program will stop its working. Possible errors are:<br>
 * Wrong date format
