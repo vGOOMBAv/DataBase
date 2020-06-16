@@ -1,5 +1,5 @@
 # DataBase
-Simple Database written on C++<br>
+Database written on C++<br>
 Can store list of events for certain dates. Was made for solution of end task of C++ course for beginners.<br>
 There are four operators to communicate with Database:<br>
 * <b>Add:</b><br>
